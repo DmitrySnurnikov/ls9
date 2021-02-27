@@ -1,0 +1,6 @@
+.row > [class*='col']:nth-child(odd) {
+    background: green;
+}
+.row > [class*='col']:nth-child(even) {
+    background: blue;
+}
