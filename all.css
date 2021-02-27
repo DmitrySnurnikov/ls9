@@ -4,3 +4,10 @@
 .row > [class*='col']:nth-child(even) {
     background: blue;
 }
+.box{
+    height: 300px;
+    background: yellow;
+}
+.alert{
+    font-size: 25px;
+}
